@@ -1,4 +1,4 @@
-# searchlight blog
+# short-arc mercury searchlight 
 
 My project is a High Pressure, Mercury, Short-Arc Searchlight. It boasts 17,000 lumens and 9,200,000 candela. That all probably sounds like word salad jargon, so I’ll explain what it really means. 
 
