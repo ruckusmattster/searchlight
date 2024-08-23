@@ -62,7 +62,7 @@ Then came time to power up the final bulb assembly and start designing the case.
 
 ![lighting up the clouds](https://i.imgur.com/oNuscD9.jpeg)
 
-![shadow of the trees projected onto the clouds](https://i.imgur.com/0Plh8OO.jpeg)
+![shadow of the trees projected onto the clouds](https://i.imgur.com/qVjXRlw.jpeg)
 
 ![me looking happy with the light](https://i.imgur.com/4VD5HuU.jpeg)
 
