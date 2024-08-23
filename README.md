@@ -1,13 +1,12 @@
 
-
-### Introduction
+ <h1>Introduction  </h1>
 
 My project is a High Pressure, Mercury, Short-Arc Searchlight. It boasts 17,000 Iumens and 9,200,000 candela. That all probably sounds like word salad jargon, so explain what it really means. 
 
 
 <details>
 
-  <Summary>Core Components and Their Roles</summary>
+  <Summary> <h2>Core Components and Their Roles</summary>
 
 There are three key parts at play: the power supply, the ballast, and the bulb.
 
@@ -23,7 +22,7 @@ This bulb is incredibly dangerous if mishandled. Internally, it heats up to 1800
 
 <details>
 
-  <Summary>Reverse Engineering and Optics </summary>
+  <Summary> <h2>Reverse Engineering and Optics </summary>
 
 Normally, the electronics to run these bulbs are full of safety measures (ewww); I spent a lot of time reverse engineering and bypassing these safety measures because who needs those? I bought my first ballast from a repair shop and reverse engineered the PCB. Unfortunately, I very quickly killed it, so went to eBay for another one. With this second ballast, I learned how to isolate the controller from the high voltage supply and how to trick it into thinking a control board was connected. With this better understanding of how the ballast works, I chose to take an online course on high voltage safety training because I didn't like the idea of dying.
 
@@ -33,7 +32,7 @@ Then I moved on to studying the optics. The most common is a parabolic reflector
 
 <details>
 
-  <Summary>Final assembly and testing </summary>
+  <Summary> <h2>Final assembly and testing </summary>
 
 All my research and reverse engineering took months. Only once I was confident in my knowledge, I purchased the components to study them. Using a multimeter and a lot of guesswork, I learned exactly how the ballast behaves at startup and how the power supply should be laid out for safety and efficiency. I also broke those components – both the bulb and the ballast – in the process (not on purpose).
 
