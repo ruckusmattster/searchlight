@@ -1,7 +1,7 @@
 
  <h2>Introduction  </h2>
 
-A High Pressure, Mercury, Short-Arc Searchlight. It boasts 17,000 [Iumens](https://en.m.wikipedia.org/wiki/Lumen_(unit)) and 9,200,000 [candela](https://en.m.wikipedia.org/wiki/Candela). That all probably sounds like word salad jargon, so let me explain what it really means. 
+A High Pressure, Mercury, Short-Arc Searchlight. It boasts 17,000 [Iumens](https://en.m.wikipedia.org/wiki/Lumen_(unit)) and 9,200,000 [candela](https://en.m.wikipedia.org/wiki/Candela).
 
 
 <h2>Core Components and Their Roles   </h2>
