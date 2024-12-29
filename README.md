@@ -66,19 +66,22 @@ Then came time to power up the final bulb assembly and start designing the case.
 
 ![testing setu](https://i.imgur.com/4J92Tq1.jpeg)
 
-![first power on](https://i.imgur.com/gVvmYwt.jpeg)
+![dense fog video](https://imgur.com/Wrma93b)
 
-![lighting up the clouds](https://i.imgur.com/oNuscD9.jpeg)
+![final form factor](https://imgur.com/SohJunw)
 
-![shadow of the trees projected onto the clouds](https://i.imgur.com/qVjXRlw.jpeg)
+![beam side profile](https://imgur.com/gfR4mna)
+
+![warm flood led](https://imgur.com/RpTFNHU)
 
 
 <details>
   <summary>photo info</summary>
-  1. another test setup which I used to power on the final version <br />
- 2. the first time light came out of the bulb while not being in my bedroom <br />
- 3. the beam is so bright it illuminates the cloud cover <br />
- 4. the shadow of the tree in the beam being projected onto the trees behind <br />
+ 1.test setup which I used to power on the final version <br />
+ 2. video of the beam during dense fog <br />
+ 3. the final form factor of the case and battery <br />
+ 4. side profile of the beam <br />
+ 5. the gtfc40 1800k in action <br />
 </details>
 
 I have recorded a (video)[placeholder] covering how i built the briefcase, searched for suitable projectors to take parts from, and some extra fun features I included. 
