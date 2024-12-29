@@ -66,7 +66,7 @@ Then came time to power up the final bulb assembly and start designing the case.
 
 ![testing setu](https://i.imgur.com/4J92Tq1.jpeg)
 
-![dense fog video](https://i.imgur.com/Wrma93b.mp4)
+![beam from a while away](https://i.imgur.com/mWECayh.jpeg)
 
 ![final form factor](https://i.imgur.com/SohJunw.jpeg)
 
