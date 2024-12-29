@@ -66,13 +66,13 @@ Then came time to power up the final bulb assembly and start designing the case.
 
 ![testing setu](https://i.imgur.com/4J92Tq1.jpeg)
 
-![dense fog video](https://imgur.com/Wrma93b)
+![dense fog video](https://i.imgur.com/Wrma93b.mp4)
 
-![final form factor](https://imgur.com/SohJunw)
+![final form factor](https://i.imgur.com/SohJunw.jpeg)
 
-![beam side profile](https://imgur.com/gfR4mna)
+![beam side profile](https://i.imgur.com/gfR4mna.jpeg)
 
-![warm flood led](https://imgur.com/RpTFNHU)
+![warm flood led](https://i.imgur.com/RpTFNHU.jpeg)
 
 
 <details>
