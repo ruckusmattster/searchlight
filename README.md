@@ -64,7 +64,7 @@ To fulfill the mobile requirement of the contest I purchased the Bluetti EB3A, i
 
 Then came time to power up the final bulb assembly and start designing the case. I initially worked on building a case from scrap wood I found, but after finding a briefcase I've changed plans. I've abandoned the wooden case but will revisit it for a future project involving HID bulbs.
 
-![testing setu](https://i.imgur.com/4J92Tq1.jpeg)
+![1.2km ranged photo](https://i.imgur.com/Rjdmw7l.jpeg)
 
 ![beam from a while away](https://i.imgur.com/mWECayh.jpeg)
 
@@ -77,7 +77,7 @@ Then came time to power up the final bulb assembly and start designing the case.
 
 <details>
   <summary>photo info</summary>
- 1.test setup which I used to power on the final version <br />
+ 1.an apartment building from 1.2km away <br />
  2. video of the beam during dense fog <br />
  3. the final form factor of the case and battery <br />
  4. side profile of the beam <br />
