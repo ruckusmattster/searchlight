@@ -2,7 +2,7 @@
  <h2>Introduction  </h2>
 
 A High Pressure, Mercury, Short-Arc Searchlight. It boasts 17,000 [Iumens](https://en.m.wikipedia.org/wiki/Lumen_(unit)) and 9,200,000 [candela](https://en.m.wikipedia.org/wiki/Candela).
-
+[imgur album](https://imgur.com/a/qQ4Kzk7) of most of the photos taken
 
 <h2>Core Components and Their Roles   </h2>
 
