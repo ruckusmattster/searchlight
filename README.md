@@ -90,3 +90,17 @@ Using a [lux](https://en.m.wikipedia.org/wiki/Lux)meter and some math (as well a
 
 My target was to reach double digit ranges (in kilometres), but it feels okay for a first try; my second revision, which relies on different optics, is already in the works and should be much more intense.
 
+
+<h2>Reflections and plans for the future  </h2>
+
+This project went through a bunch of different phases. At first, I wanted to use an elliptical reflector UHP with a Fresnel lens using brand-new parts, but then I realized it’s way easier (and cheaper) to salvage from a second-hand projector. I also switched from a 12V lead-acid battery with an inverter to a Bluetti EB3A, and instead of the wooden box I built, I ended up using a briefcase for the final enclosure.
+
+Looking back, I regret spending so much on new parts. Testing everything together from a used projector is simpler and gives you immediate proof that the parts work. I also avoided 3D printing because I wanted this to qualify for the handmade category of the competition. Had i used the 3d printer, I would’ve stacked some of the PCBs and saved a lot of horizontal space, making the whole thing more compact.
+
+About six people asked me about commissioning lights, so I’ll work on making a V2 where I’ll focus on better workmanship (less glue more compact) and safety. I had a lot of analysis paralysis along the way (thanks and sorry to Luna and Dancho from the flashlight [Discord](https://discord.com/invite/yBnQ7mVa) for sticking with me). Even though it’s not on the same level as folks like Sma from TLF and CPF, I’m happy with its performance so far. I used mostly second-hand parts or scrap I scavenged from bins. If I’d had a bigger budget, I’d have replaced the entire panel around the bulb, potentially used two bulbs, and added a way to operate it remotely.
+
+One major problem is weight distribution. The auxiliary light should really be in the back, and the power cord shouldn’t come out the back-it means I can’t tailstand the thing. After the competition, I plan to 3D print a hinged mechanism so it can tail stand. 
+
+On the plus side, I love how it looks. The warm underglow aesthetic is cold, and speaker gives it a bit of whimsy. The user interface is also straightforward enough that most people can safely use the light, which was a big priority for me.
+
+
