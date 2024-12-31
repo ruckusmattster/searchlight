@@ -47,7 +47,7 @@ Important: High voltage is lethal. Ensure wires and connectors are properly insu
 
 <h2>Forcing the Ballast On</h2>
 Most ballasts i know of use optocouplers for control signals. To activate the ballast without the original projector main board, you’ll need to find the right optocoupler and short its output side. <br />
-Find the [optocoupler](https://europe1.discourse-cdn.com/arduino/original/4X/8/a/2/8a26791edefbe45d56233222402ae558c2f9c33a.jpeg) and identify its output using its datasheet to indentify which side is the output relative to pin 1 (which will be marked). Shorting the output side of the correct optocoupler simulates the mainboards turn-on signal. If you cant deduce which is the correct one, short one output and briefly power on. Repeat until the correct one's identified. Many ballasts' have a Eco mode where they draw half the power, use a watt meter at you 240vac supply to measure if its reaching the rated max power - as far as i can tell theres no benefit in using the Eco mode so get the maximum rated power out of your bulb.
+Find the [optocoupler](https://en.wikipedia.org/wiki/Opto-isolator) and identify its output using its datasheet to indentify which side is the output relative to pin 1 (which will be marked). Shorting the output side of the correct optocoupler simulates the mainboards turn-on signal. If you cant deduce which is the correct one, short one output and briefly power on. Repeat until the correct one's identified. Many ballasts' have a Eco mode where they draw half the power, use a watt meter at you 240vac supply to measure if its reaching the rated max power - as far as i can tell theres no benefit in using the Eco mode so get the maximum rated power out of your bulb.
 
 <h2>Additional Tips</h2>
 
