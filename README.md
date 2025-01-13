@@ -1,10 +1,10 @@
 <h2>Eye-Catching Photos</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/ajl3AfD.jpeg" alt="side view" width="45%" />
-  <img src="https://i.imgur.com/ROmtG81.jpeg" alt="1.2km beamshot" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8f963e51-2d84-4a80-bdb9-69b982155f82" alt="side view" width="45%" />
+  <img src="https://github.com/user-attachments/assets/83128763-b452-4ece-a6e6-d3d4bb5ce98b" alt="1.2km beamshot" width="45%" />
   <br>
-  <img src="https://i.imgur.com/tNidjX0.jpeg" alt="underglow" width="45%" />
+  <img src="https://github.com/user-attachments/assets/705368e3-9ce6-4451-8101-7bdb896961d9" alt="underglow" width="45%" />
   <img src="https://i.imgur.com/V0eqn1t.jpeg" alt="first person" width="45%" />
 </p>
 
